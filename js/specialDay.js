@@ -9,7 +9,7 @@ if (m == 11 && d == 24){
 	bkg.src = 'img/Christmas1.mp4'
 }else if (m == 11 && d == 25){
 	specialDay.innerHTML = "宝贝圣诞节要开心鸭！"
-	bkg.src = 'img/Christmas1.mp4'
+	bkg.src = 'img/Christmas.mp4'
 }else if (m == 11 && d == 23){
 	content.style.marginTop = '280px'
 	bkg.src = 'img/yuandan.mp4'
