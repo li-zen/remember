@@ -6,7 +6,7 @@ m = nowT.getMonth()
 d = nowT.getDate()
 if (m == 11 && d == 24){
 	specialDay.innerHTML = "宝贝子平安夜要吃苹果哒！"
-	bkg.src = 'img/Christmas1.mp4'
+	bkg.src = 'img/Christmas.mp4'
 }else if (m == 11 && d == 25){
 	specialDay.innerHTML = "宝贝圣诞节要开心鸭！"
 	bkg.src = 'img/Christmas.mp4'
